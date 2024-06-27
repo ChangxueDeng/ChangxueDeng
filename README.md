@@ -33,13 +33,15 @@
 </div>
 
 <!-- 背景图 -->
-<div>
-<img align="right" alt="GIF" src="./computer.gif" width="400"/>
-</div>
+
 
 
   <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
+
+<div>
+<img align="right" alt="GIF" src="./computer.gif" width="400"/>
+</div>
 
 - 🔭 I’m currently working on list
   - [CampusForum](https://github.com/ChangxueDeng/CampusForum)~
