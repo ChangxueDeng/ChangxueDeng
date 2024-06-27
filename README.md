@@ -1,6 +1,14 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangxueDeng)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangxueDeng)
+<!-- 背景图 -->
+<br />
+<br />
+<img align="right" alt="GIF" src="./assets/computer.gif" width="400"/>
+
+<!-- 关于我 -->
+<h2 height="200px" align="center">🎉 About Me</h2>
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangxueDeng&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangxueDeng&layout=compact&theme=tokyonight)
 
 <!--
 **ChangxueDeng/ChangxueDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
